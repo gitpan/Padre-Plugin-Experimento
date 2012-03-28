@@ -20,7 +20,8 @@ no_index:
     - t
     - inc
 requires:
+  IO::String: 1.08
   Modern::Perl: 1.20120130
   Padre: 0.94
   Wx::Scintilla: 0.3801
-version: 0.01
+version: 0.02
